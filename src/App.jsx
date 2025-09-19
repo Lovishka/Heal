@@ -311,7 +311,7 @@ export default function App() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <span className="text-2xl font-bold text-teal-600"><img
-              src="/healtrack/public/logo.webp"
+              src="public/logo.webp"
               alt="HealTrack Logo"
               className="w-auto h-20"
             /></span>
