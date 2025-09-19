@@ -310,9 +310,9 @@ export default function App() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-teal-600"><img
-              src="public/logo.webp"
-              alt="HealTrack Logo"
+            <span className="text-xl font-bold text-teal-600"><img
+              src="/logo.webp"
+              alt="HealTrack"
               className="w-auto h-20"
             /></span>
           </div>
